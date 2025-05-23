@@ -1,5 +1,224 @@
 {
-  "templates": [ {
+  "templates": [
+     {
+      "id": "template-1747728901346-831",
+      "name": "Match announcement",
+      "version": "1.0",
+      "imageCount": 0,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": 0.8
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/matchannouncement.png",
+      "previewImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/matchannouncement.png",
+      "templateType": "free",
+      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1747735272367",
+          "type": "text",
+          "x": 312,
+          "y": 1250,
+          "width": 459,
+          "height": 50,
+          "xPercent": 28.888888888888886,
+          "yPercent": 92.5925925925926,
+          "widthPercent": 42.5,
+          "heightPercent": 3.7037037037037033,
+          "placeholder": "New Text",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        }
+      ],
+      "imageFields": [],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
+    },
+    {
+      "id": "template-1747740857567-253",
+      "name": "Next Match",
+      "version": "1.0",
+      "imageCount": 2,
+      "dimensions": {
+        "width": 1080,
+        "height": 1080,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/nextmatch.jpg",
+      "previewImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/nextmatch.jpg",
+      "templateType": "free",
+      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1747740879700",
+          "type": "text",
+          "x": 428,
+          "y": 38,
+          "width": 430,
+          "height": 58,
+          "xPercent": 39.62962962962963,
+          "yPercent": 3.5185185185185186,
+          "widthPercent": 39.81481481481482,
+          "heightPercent": 5.37037037037037,
+          "placeholder": "Tourname Name",
+          "style": {
+            "fontSize": 18,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1747740901196",
+          "type": "text",
+          "x": 215,
+          "y": 658,
+          "width": 216,
+          "height": 50,
+          "xPercent": 19.90740740740741,
+          "yPercent": 60.92592592592593,
+          "widthPercent": 20,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Team 1 Name",
+          "style": {
+            "fontSize": 12,
+            "color": "#030f3f",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1747740938765",
+          "type": "text",
+          "x": 652,
+          "y": 659,
+          "width": 214,
+          "height": 50,
+          "xPercent": 60.370370370370374,
+          "yPercent": 61.01851851851852,
+          "widthPercent": 19.814814814814817,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Team 2 Name",
+          "style": {
+            "fontSize": 12,
+            "color": "#030f3f",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1747741035561",
+          "type": "text",
+          "x": 450,
+          "y": 838,
+          "width": 180,
+          "height": 50,
+          "xPercent": 41.66666666666667,
+          "yPercent": 77.5925925925926,
+          "widthPercent": 16.666666666666664,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "20:00 PM",
+          "style": {
+            "fontSize": 9,
+            "color": "#000000",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1747741064740",
+          "type": "text",
+          "x": 357,
+          "y": 974,
+          "width": 371,
+          "height": 51,
+          "xPercent": 33.05555555555556,
+          "yPercent": 90.18518518518519,
+          "widthPercent": 34.35185185185185,
+          "heightPercent": 4.722222222222222,
+          "placeholder": "SUNDAY, DECEMBER 15th",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        }
+      ],
+      "imageFields": [
+        {
+          "id": "element-1747740981787",
+          "type": "image",
+          "x": 59,
+          "y": 620,
+          "width": 129,
+          "height": 126,
+          "xPercent": 5.462962962962963,
+          "yPercent": 57.407407407407405,
+          "widthPercent": 11.944444444444445,
+          "heightPercent": 11.666666666666666,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        },
+        {
+          "id": "element-1747740987088",
+          "type": "image",
+          "x": 895,
+          "y": 619,
+          "width": 132,
+          "height": 130,
+          "xPercent": 82.87037037037037,
+          "yPercent": 57.31481481481482,
+          "widthPercent": 12.222222222222221,
+          "heightPercent": 12.037037037037036,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        }
+      ],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
+    },
+
+    {
       "id": "template-1748014533778-309",
       "name": "Cricket Poster Template",
       "version": "1.0",
