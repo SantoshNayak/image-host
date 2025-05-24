@@ -1139,6 +1139,154 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
+    },
+    {
+      "id": "template-1748097908377-465",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 2,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": 0.8
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster5.png",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster5.png",
+      "templateType": "free",
+      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748097949994",
+          "type": "text",
+          "x": 29.000003814697266,
+          "y": 1042.9998779296875,
+          "width": 332,
+          "height": 87,
+          "xPercent": 2.685185538397895,
+          "yPercent": 77.25925021701389,
+          "widthPercent": 30.74074074074074,
+          "heightPercent": 6.444444444444445,
+          "placeholder": "Team A",
+          "style": {
+            "fontSize": 18,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748098010366-clone",
+          "type": "text",
+          "x": 717.9999618530273,
+          "y": 1030.9998779296875,
+          "width": 314,
+          "height": 87,
+          "xPercent": 66.48147794935439,
+          "yPercent": 76.370361328125,
+          "widthPercent": 29.074074074074076,
+          "heightPercent": 6.444444444444445,
+          "placeholder": "Team B",
+          "style": {
+            "fontSize": 18,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748098031777",
+          "type": "text",
+          "x": 395.99999237060547,
+          "y": 642,
+          "width": 284,
+          "height": 52,
+          "xPercent": 36.66666596024125,
+          "yPercent": 47.55555555555556,
+          "widthPercent": 26.296296296296294,
+          "heightPercent": 3.851851851851852,
+          "placeholder": "10 june 2030 ",
+          "style": {
+            "fontSize": 12,
+            "color": "#f5f5f5",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748098080752-clone",
+          "type": "text",
+          "x": 413.99999237060547,
+          "y": 702,
+          "width": 246,
+          "height": 52,
+          "xPercent": 38.33333262690791,
+          "yPercent": 52,
+          "widthPercent": 22.77777777777778,
+          "heightPercent": 3.851851851851852,
+          "placeholder": "10 june 2030 ",
+          "style": {
+            "fontSize": 12,
+            "color": "#f5f5f5",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        }
+      ],
+      "imageFields": [
+        {
+          "id": "element-1748097915470",
+          "type": "image",
+          "x": 106.99999237060547,
+          "y": 776.0000305175781,
+          "width": 233,
+          "height": 239,
+          "xPercent": 9.907406700981989,
+          "yPercent": 57.481483742042826,
+          "widthPercent": 21.574074074074073,
+          "heightPercent": 17.703703703703706,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        },
+        {
+          "id": "element-1748097938878-clone",
+          "type": "image",
+          "x": 719.9999923706055,
+          "y": 770.1111145019531,
+          "width": 233,
+          "height": 239,
+          "xPercent": 66.66666596024125,
+          "yPercent": 57.04526774088542,
+          "widthPercent": 21.574074074074073,
+          "heightPercent": 17.703703703703706,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        }
+      ],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
     }
   ]
 }
