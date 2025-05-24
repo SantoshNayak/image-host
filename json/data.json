@@ -4,7 +4,7 @@
       "id": "template-1748053417218-550",
       "name": "Cricket Poster Template",
       "version": "1.0",
-      "imageCount": 2,
+      "imageCount": 3,
       "dimensions": {
         "width": 1620,
         "height": 1620,
@@ -54,6 +54,65 @@
           "widthPercent": 16.296296296296298,
           "heightPercent": 4.382716049382716,
           "placeholder": "New Text",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748053887654",
+          "type": "text",
+          "x": 134.99999237060547,
+          "y": 1394,
+          "width": 200,
+          "height": 61,
+          "xPercent": 8.333332862383054,
+          "yPercent": 86.04938271604938,
+          "widthPercent": 12.345679012345679,
+          "heightPercent": 3.7654320987654324,
+          "placeholder": "Month, Ex: JUNE",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1748053931851",
+          "type": "text",
+          "x": 134.99999237060547,
+          "y": 1466.9999694824219,
+          "width": 200,
+          "height": 97,
+          "xPercent": 8.333332862383054,
+          "yPercent": 90.55555367175444,
+          "widthPercent": 12.345679012345679,
+          "heightPercent": 5.987654320987654,
+          "placeholder": "Date. Ex: 20",
+          "style": {
+            "fontSize": 19,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748053998411",
+          "type": "text",
+          "x": 383.99999237060547,
+          "y": 1392.9999389648438,
+          "width": 472,
+          "height": 73,
+          "xPercent": 23.703703232753423,
+          "yPercent": 85.98765055338542,
+          "widthPercent": 29.1358024691358,
+          "heightPercent": 4.506172839506172,
+          "placeholder": "Playing Ground Name in CAPITAL",
           "style": {
             "fontSize": 16,
             "color": "#ffffff",
