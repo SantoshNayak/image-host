@@ -27,7 +27,7 @@
           "type": "text",
           "x": 167.99999237060547,
           "y": 940.9999237060547,
-          "width": 314,
+          "width": 350,
           "height": 80,
           "xPercent": 10.37036989942009,
           "yPercent": 58.08641504358363,
@@ -48,7 +48,7 @@
           "type": "text",
           "x": 574.9999618530273,
           "y": 938,
-          "width": 264,
+          "width": 350,
           "height": 80,
           "xPercent": 35.49382480574243,
           "yPercent": 57.90123456790124,
@@ -70,7 +70,7 @@
           "x": 134.99999237060547,
           "y": 1394,
           "width": 200,
-          "height": 64,
+          "height": 75,
           "xPercent": 8.333332862383054,
           "yPercent": 86.04938271604938,
           "widthPercent": 12.345679012345679,
@@ -111,7 +111,7 @@
           "x": 383.99999237060547,
           "y": 1392.9999389648438,
           "width": 472,
-          "height": 73,
+          "height": 80,
           "xPercent": 23.703703232753423,
           "yPercent": 85.98765055338542,
           "widthPercent": 29.1358024691358,
@@ -122,7 +122,8 @@
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
-            "hasShadow": true
+            "hasShadow": true,
+            "textTransform": "uppercase"
           }
         },
         {
@@ -131,7 +132,7 @@
           "x": 384.99996185302734,
           "y": 1471.9999694824219,
           "width": 475,
-          "height": 90,
+          "height": 95,
           "xPercent": 23.765429744014032,
           "yPercent": 90.86419564706308,
           "widthPercent": 29.32098765432099,
@@ -142,7 +143,8 @@
             "color": "#ffffff",
             "fontWeight": "normal",
             "fontUrl": "",
-            "hasShadow": false
+            "hasShadow": false,
+            "textTransform": "uppercase"
           }
         }
       ],
@@ -227,7 +229,8 @@
             "fontSize": 12,
             "color": "#050564",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -246,7 +249,8 @@
             "fontSize": 12,
             "color": "#050564",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -266,7 +270,8 @@
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
-            "hasShadow": true
+            "hasShadow": true,
+            "textTransform": "uppercase"
           }
         },
         {
@@ -286,7 +291,8 @@
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
-            "hasShadow": true
+            "hasShadow": true,
+            "textTransform": "uppercase"
           }
         },
         {
@@ -307,7 +313,8 @@
             "fontWeight": "bold",
             "fontUrl": "",
             "hasShadow": true
-          }
+          },
+          "textTransform": "uppercase"
         }
       ],
       "imageFields": [],
@@ -357,12 +364,13 @@
           "yPercent": 92.5925925925926,
           "widthPercent": 42.5,
           "heightPercent": 3.7037037037037033,
-          "placeholder": "New Text",
+          "placeholder": "Tournament Date and Time",
           "style": {
             "fontSize": 16,
             "color": "#ffffff",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         }
       ],
@@ -418,7 +426,8 @@
             "fontSize": 18,
             "color": "#ffffff",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -437,7 +446,8 @@
             "fontSize": 12,
             "color": "#030f3f",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -456,7 +466,8 @@
             "fontSize": 12,
             "color": "#030f3f",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -475,7 +486,8 @@
             "fontSize": 9,
             "color": "#000000",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -494,7 +506,8 @@
             "fontSize": 16,
             "color": "#ffffff",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         }
       ],
@@ -579,7 +592,8 @@
             "fontSize": 7,
             "color": "#160672",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -598,7 +612,8 @@
             "fontSize": 7,
             "color": "#160672",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -617,7 +632,8 @@
             "fontSize": 6,
             "color": "#ffffff",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         },
         {
@@ -636,7 +652,8 @@
             "fontSize": 12,
             "color": "#ffffff",
             "fontWeight": "bold",
-            "fontUrl": ""
+            "fontUrl": "",
+            "textTransform": "uppercase"
           }
         }
       ],
@@ -653,7 +670,8 @@
           "widthPercent": 9.53125,
           "heightPercent": 16.52777777777778,
           "backgroundColor": "#f0f0f0",
-          "isCircular": true
+          "isCircular": true,
+          "textTransform": "uppercase"
         },
         {
           "id": "element-1747739845733",
@@ -667,7 +685,8 @@
           "widthPercent": 9.921875,
           "heightPercent": 17.083333333333332,
           "backgroundColor": "#f0f0f0",
-          "isCircular": true
+          "isCircular": true,
+          "textTransform": "uppercase"
         }
       ],
       "isProfessional": false,
