@@ -186,6 +186,141 @@
       }
     },
     {
+      "id": "template-1748059820581-347",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 0,
+      "dimensions": {
+        "width": 1080,
+        "height": 1080,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster2.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster2.jpg",
+      "templateType": "free",
+      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748059859666",
+          "type": "text",
+          "x": 624.9999618530273,
+          "y": 415.9999885559082,
+          "width": 336,
+          "height": 61,
+          "xPercent": 57.87036683824327,
+          "yPercent": 38.51851745888039,
+          "widthPercent": 31.11111111111111,
+          "heightPercent": 5.648148148148148,
+          "placeholder": "12 june, 2029",
+          "style": {
+            "fontSize": 12,
+            "color": "#050564",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1748059924333-clone",
+          "type": "text",
+          "x": 699.9999618530273,
+          "y": 480.0000190734863,
+          "width": 266,
+          "height": 61,
+          "xPercent": 64.81481128268771,
+          "yPercent": 44.44444621050799,
+          "widthPercent": 24.62962962962963,
+          "heightPercent": 5.648148148148148,
+          "placeholder": "8:00PM",
+          "style": {
+            "fontSize": 12,
+            "color": "#050564",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1748059959001",
+          "type": "text",
+          "x": 246.99999237060547,
+          "y": 812,
+          "width": 221,
+          "height": 75,
+          "xPercent": 22.87036966394495,
+          "yPercent": 75.18518518518519,
+          "widthPercent": 20.462962962962962,
+          "heightPercent": 6.944444444444445,
+          "placeholder": "TEAM A ",
+          "style": {
+            "fontSize": 14,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748059983369-clone",
+          "type": "text",
+          "x": 632.9999923706055,
+          "y": 811,
+          "width": 221,
+          "height": 75,
+          "xPercent": 58.6111104046857,
+          "yPercent": 75.0925925925926,
+          "widthPercent": 20.462962962962962,
+          "heightPercent": 6.944444444444445,
+          "placeholder": "TEAM B",
+          "style": {
+            "fontSize": 14,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748060008835-clone",
+          "type": "text",
+          "x": 231.99996185302734,
+          "y": 960.9999389648438,
+          "width": 649,
+          "height": 75,
+          "xPercent": 21.48147794935438,
+          "yPercent": 88.98147583007812,
+          "widthPercent": 60.092592592592595,
+          "heightPercent": 6.944444444444445,
+          "placeholder": "Ground Name",
+          "style": {
+            "fontSize": 14,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        }
+      ],
+      "imageFields": [],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
+    },
+    {
       "id": "template-1747728901346-831",
       "name": "Match announcement",
       "version": "1.0",
