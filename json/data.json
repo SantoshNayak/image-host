@@ -16,8 +16,8 @@
         "units": "px"
       },
       "backgroundType": "image",
-      "backgroundImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/matchannouncement.png",
-      "previewImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/matchannouncement.png",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/matchannouncement.png",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/matchannouncement.png",
       "templateType": "free",
       "gradientColors": ["#f0f0f0", "#e0e0e0"],
       "hasGradient": true,
@@ -72,8 +72,8 @@
         "units": "px"
       },
       "backgroundType": "image",
-      "backgroundImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/nextmatch.jpg",
-      "previewImage": "https://raw.githubusercontent.com/santoshnayakdev/image-bank/main/cricket/backgrounds/nextmatch.jpg",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/nextmatch.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/nextmatch.jpg",
       "templateType": "free",
       "gradientColors": ["#f0f0f0", "#e0e0e0"],
       "hasGradient": true,
@@ -217,16 +217,15 @@
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
     },
-
     {
-      "id": "template-1748014533778-309",
-      "name": "Cricket Poster Template",
+      "id": "template-1747739811340-364",
+      "name": "Team A vs Team B",
       "version": "1.0",
       "imageCount": 2,
       "dimensions": {
-        "width": 1620,
-        "height": 1620,
-        "aspectRatio": 1
+        "width": 1280,
+        "height": 720,
+        "aspectRatio": 1.7777777777777777
       },
       "coordinateSystem": {
         "type": "absolute",
@@ -234,38 +233,117 @@
         "units": "px"
       },
       "backgroundType": "image",
-      "backgroundImage": "https://www.purina.in/sites/default/files/2023-05/feast.png",
-      "previewImage": "https://www.purina.in/sites/default/files/2023-05/feast.png",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/matchday.png",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/matchday.png",
       "templateType": "free",
       "gradientColors": ["#f0f0f0", "#e0e0e0"],
       "hasGradient": true,
-      "textFields": [],
-      "imageFields": [
+      "textFields": [
         {
-          "id": "element-1748014546062",
-          "type": "image",
-          "x": 260,
-          "y": 779,
-          "width": 150,
-          "height": 150,
-          "xPercent": 16.049382716049383,
-          "yPercent": 48.08641975308642,
-          "widthPercent": 9.25925925925926,
-          "heightPercent": 9.25925925925926,
-          "backgroundColor": "#f0f0f0"
+          "id": "element-1747739877811",
+          "type": "text",
+          "x": 498,
+          "y": 431,
+          "width": 144,
+          "height": 28,
+          "xPercent": 38.90625,
+          "yPercent": 59.86111111111111,
+          "widthPercent": 11.25,
+          "heightPercent": 3.888888888888889,
+          "placeholder": "Team 1 Name",
+          "style": {
+            "fontSize": 7,
+            "color": "#160672",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
         },
         {
-          "id": "element-1748014552557",
+          "id": "element-1747739900692",
+          "type": "text",
+          "x": 695,
+          "y": 429,
+          "width": 137,
+          "height": 30,
+          "xPercent": 54.296875,
+          "yPercent": 59.583333333333336,
+          "widthPercent": 10.703125,
+          "heightPercent": 4.166666666666666,
+          "placeholder": "Team 2 Name",
+          "style": {
+            "fontSize": 7,
+            "color": "#160672",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1747739953505",
+          "type": "text",
+          "x": 505,
+          "y": 494,
+          "width": 320,
+          "height": 31,
+          "xPercent": 39.453125,
+          "yPercent": 68.61111111111111,
+          "widthPercent": 25,
+          "heightPercent": 4.305555555555555,
+          "placeholder": "Sunday, 10th Aug",
+          "style": {
+            "fontSize": 6,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1747739994360",
+          "type": "text",
+          "x": 535,
+          "y": 529,
+          "width": 259,
+          "height": 51,
+          "xPercent": 41.796875,
+          "yPercent": 73.47222222222223,
+          "widthPercent": 20.234375,
+          "heightPercent": 7.083333333333333,
+          "placeholder": "At 3.00PM",
+          "style": {
+            "fontSize": 12,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": ""
+          }
+        }
+      ],
+      "imageFields": [
+        {
+          "id": "element-1747739842076",
           "type": "image",
-          "x": 606,
-          "y": 772,
-          "width": 150,
-          "height": 150,
-          "xPercent": 37.407407407407405,
-          "yPercent": 47.654320987654316,
-          "widthPercent": 9.25925925925926,
-          "heightPercent": 9.25925925925926,
-          "backgroundColor": "#f0f0f0"
+          "x": 370,
+          "y": 374,
+          "width": 122,
+          "height": 119,
+          "xPercent": 28.90625,
+          "yPercent": 51.94444444444445,
+          "widthPercent": 9.53125,
+          "heightPercent": 16.52777777777778,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        },
+        {
+          "id": "element-1747739845733",
+          "type": "image",
+          "x": 839,
+          "y": 369,
+          "width": 127,
+          "height": 123,
+          "xPercent": 65.546875,
+          "yPercent": 51.24999999999999,
+          "widthPercent": 9.921875,
+          "heightPercent": 17.083333333333332,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
         }
       ],
       "isProfessional": false,
@@ -280,66 +358,6 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
-    },
-    {
-  "id": "template-1748052169991-702",
-  "name": "Test",
-  "version": "1.0",
-  "imageCount": 0,
-  "dimensions": {
-    "width": 1080,
-    "height": 1080,
-    "aspectRatio": 1
-  },
-  "coordinateSystem": {
-    "type": "absolute",
-    "origin": "top-left",
-    "units": "px"
-  },
-  "backgroundType": "image",
-  "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster2.jpg",
-  "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster2.jpg",
-  "templateType": "free",
-  "gradientColors": [
-    "#f0f0f0",
-    "#e0e0e0"
-  ],
-  "hasGradient": true,
-  "textFields": [
-    {
-      "id": "element-1748052199247",
-      "type": "text",
-      "x": 719.0000228881836,
-      "y": 542,
-      "width": 243,
-      "height": 72,
-      "xPercent": 66.57407619335032,
-      "yPercent": 50.18518518518519,
-      "widthPercent": 22.5,
-      "heightPercent": 6.666666666666667,
-      "placeholder": "Name",
-      "style": {
-        "fontSize": 16,
-        "color": "#ffffff",
-        "fontWeight": "bold",
-        "fontUrl": "",
-        "hasShadow": true
-      }
     }
-  ],
-  "imageFields": [],
-  "isProfessional": false,
-  "backgroundFallback": {
-    "type": "color",
-    "backgroundColor": "#f0f0f0"
-  },
-  "_positioningGuide": {
-    "description": "Position information available in two formats",
-    "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
-    "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
-    "recommendedForMobile": "Use percentage values for responsive layouts",
-    "recommendedForDesktop": "Use absolute pixel values for exact positioning"
-  }
-}
   ]
 }
