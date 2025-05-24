@@ -683,7 +683,7 @@
       "id": "template-1748061202416-338",
       "name": "Cricket Poster Template",
       "version": "1.0",
-      "imageCount": 1,
+      "imageCount": 0,
       "dimensions": {
         "width": 1080,
         "height": 1080,
@@ -695,8 +695,8 @@
         "units": "px"
       },
       "backgroundType": "image",
-      "backgroundImage": "",
-      "previewImage": "",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster2.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster2.jpg",
       "templateType": "free",
       "gradientColors": ["#f0f0f0", "#e0e0e0"],
       "hasGradient": true,
