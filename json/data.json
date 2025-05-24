@@ -701,6 +701,223 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
+    },
+    {
+      "id": "template-1748070601462-920",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 0,
+      "dimensions": {
+        "width": 1080,
+        "height": 1080,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/playersstat.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/playersstat.jpg",
+      "templateType": "free",
+      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748072465005",
+          "type": "text",
+          "x": 221.99999237060547,
+          "y": 195.0000228881836,
+          "width": 53,
+          "height": 50,
+          "xPercent": 20.555554849130136,
+          "yPercent": 18.055557674831814,
+          "widthPercent": 4.907407407407407,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Player 1 Run",
+          "style": {
+            "fontSize": 12,
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1748072492774-clone",
+          "type": "text",
+          "x": 216.99999237060547,
+          "y": 537.0000228881836,
+          "width": 53,
+          "height": 50,
+          "xPercent": 20.092591886167174,
+          "yPercent": 49.72222434149848,
+          "widthPercent": 4.907407407407407,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Player 2 Run",
+          "style": {
+            "fontSize": 12,
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1748072501136-clone",
+          "type": "text",
+          "x": 220.99999237060547,
+          "y": 885.0000228881836,
+          "width": 53,
+          "height": 50,
+          "xPercent": 20.462962256537544,
+          "yPercent": 81.9444465637207,
+          "widthPercent": 4.907407407407407,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Player 3 Run",
+          "style": {
+            "fontSize": 12,
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontUrl": ""
+          }
+        },
+        {
+          "id": "element-1748072516574",
+          "type": "text",
+          "x": 110.99999237060547,
+          "y": 190.99998474121094,
+          "width": 99,
+          "height": 50,
+          "xPercent": 10.277777071352357,
+          "yPercent": 17.685183772334344,
+          "widthPercent": 9.166666666666666,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Player 1 run",
+          "style": {
+            "fontSize": 16,
+            "color": "#f6ff00",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748072581160-clone",
+          "type": "text",
+          "x": 106.99999237060547,
+          "y": 533.9999847412109,
+          "width": 99,
+          "height": 50,
+          "xPercent": 9.907406700981989,
+          "yPercent": 49.44444303159361,
+          "widthPercent": 9.166666666666666,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Player 2 run",
+          "style": {
+            "fontSize": 16,
+            "color": "#f6ff00",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748072591120-clone",
+          "type": "text",
+          "x": 101.99999237060547,
+          "y": 881.9999847412109,
+          "width": 99,
+          "height": 50,
+          "xPercent": 9.444443738019025,
+          "yPercent": 81.66666525381584,
+          "widthPercent": 9.166666666666666,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Player 3 run",
+          "style": {
+            "fontSize": 16,
+            "color": "#f6ff00",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748072604553",
+          "type": "text",
+          "x": 110.00000762939453,
+          "y": 113.99998474121094,
+          "width": 259,
+          "height": 66,
+          "xPercent": 10.185185891610605,
+          "yPercent": 10.555554142704716,
+          "widthPercent": 23.98148148148148,
+          "heightPercent": 6.111111111111111,
+          "placeholder": "Player 1 Name",
+          "style": {
+            "fontSize": 18,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748072670459-clone",
+          "type": "text",
+          "x": 105.00000762939453,
+          "y": 463.99998474121094,
+          "width": 259,
+          "height": 66,
+          "xPercent": 9.722222928647643,
+          "yPercent": 42.96296155011212,
+          "widthPercent": 23.98148148148148,
+          "heightPercent": 6.111111111111111,
+          "placeholder": "Player 2 Name",
+          "style": {
+            "fontSize": 18,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748072681595-clone",
+          "type": "text",
+          "x": 103.00000762939453,
+          "y": 799.9999847412109,
+          "width": 259,
+          "height": 66,
+          "xPercent": 9.537037743462456,
+          "yPercent": 74.07407266122323,
+          "widthPercent": 23.98148148148148,
+          "heightPercent": 6.111111111111111,
+          "placeholder": "Player 3 Name",
+          "style": {
+            "fontSize": 18,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        }
+      ],
+      "imageFields": [],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
     }
   ]
 }
