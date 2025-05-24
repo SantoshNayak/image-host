@@ -1051,7 +1051,7 @@
       },
       "backgroundType": "image",
       "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster4.jpg",
-      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/template/poster4.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster4.jpg",
       "templateType": "free",
       "gradientColors": ["#f0f0f0", "#e0e0e0"],
       "hasGradient": true,
