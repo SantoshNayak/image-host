@@ -75,7 +75,7 @@
           "heightPercent": 3.7654320987654324,
           "placeholder": "Month, Ex: JUNE",
           "style": {
-            "fontSize": 16,
+            "fontSize": 13,
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": ""
@@ -114,7 +114,7 @@
           "heightPercent": 4.506172839506172,
           "placeholder": "Playing Ground Name in CAPITAL",
           "style": {
-            "fontSize": 16,
+            "fontSize": 13,
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
@@ -134,7 +134,7 @@
           "heightPercent": 5.555555555555555,
           "placeholder": "Play Ground Address",
           "style": {
-            "fontSize": 16,
+            "fontSize": 13,
             "color": "#ffffff",
             "fontWeight": "normal",
             "fontUrl": "",
