@@ -1,6 +1,112 @@
 {
   "templates": [
     {
+      "id": "template-1748053417218-550",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 2,
+      "dimensions": {
+        "width": 1620,
+        "height": 1620,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster1.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster1.jpg",
+      "templateType": "free",
+      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748053459075",
+          "type": "text",
+          "x": 167.99999237060547,
+          "y": 940.9999237060547,
+          "width": 314,
+          "height": 70,
+          "xPercent": 10.37036989942009,
+          "yPercent": 58.08641504358363,
+          "widthPercent": 19.38271604938272,
+          "heightPercent": 4.320987654320987,
+          "placeholder": "New Text",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748053484670",
+          "type": "text",
+          "x": 574.9999618530273,
+          "y": 938,
+          "width": 264,
+          "height": 71,
+          "xPercent": 35.49382480574243,
+          "yPercent": 57.90123456790124,
+          "widthPercent": 16.296296296296298,
+          "heightPercent": 4.382716049382716,
+          "placeholder": "New Text",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "hasShadow": true
+          }
+        }
+      ],
+      "imageFields": [
+        {
+          "id": "element-1748053427699",
+          "type": "image",
+          "x": 265,
+          "y": 776,
+          "width": 150,
+          "height": 150,
+          "xPercent": 16.358024691358025,
+          "yPercent": 47.901234567901234,
+          "widthPercent": 9.25925925925926,
+          "heightPercent": 9.25925925925926,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        },
+        {
+          "id": "element-1748053443711",
+          "type": "image",
+          "x": 618,
+          "y": 766,
+          "width": 150,
+          "height": 150,
+          "xPercent": 38.148148148148145,
+          "yPercent": 47.28395061728395,
+          "widthPercent": 9.25925925925926,
+          "heightPercent": 9.25925925925926,
+          "backgroundColor": "#f0f0f0",
+          "isCircular": true
+        }
+      ],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
+    },
+    {
       "id": "template-1747728901346-831",
       "name": "Match announcement",
       "version": "1.0",
