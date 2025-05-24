@@ -33,7 +33,7 @@
           "yPercent": 58.08641504358363,
           "widthPercent": 19.38271604938272,
           "heightPercent": 4.320987654320987,
-          "placeholder": "New Text",
+          "placeholder": "Team 1 Name",
           "style": {
             "fontSize": 16,
             "color": "#ffffff",
@@ -53,7 +53,7 @@
           "yPercent": 57.90123456790124,
           "widthPercent": 16.296296296296298,
           "heightPercent": 4.382716049382716,
-          "placeholder": "New Text",
+          "placeholder": "Team 2 Name",
           "style": {
             "fontSize": 16,
             "color": "#ffffff",
@@ -119,6 +119,26 @@
             "fontWeight": "bold",
             "fontUrl": "",
             "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748057105153",
+          "type": "text",
+          "x": 384.99996185302734,
+          "y": 1471.9999694824219,
+          "width": 475,
+          "height": 90,
+          "xPercent": 23.765429744014032,
+          "yPercent": 90.86419564706308,
+          "widthPercent": 29.32098765432099,
+          "heightPercent": 5.555555555555555,
+          "placeholder": "Play Ground Address",
+          "style": {
+            "fontSize": 16,
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontUrl": "",
+            "hasShadow": false
           }
         }
       ],
