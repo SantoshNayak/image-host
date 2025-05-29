@@ -1289,14 +1289,14 @@
         }
       },
       {
-        "id": "template-1748174039573-390",
+        "id": "template-1748503106582-641",
         "name": "Cricket Poster Template",
         "version": "1.0",
         "imageCount": 0,
         "dimensions": {
-          "width": 1932,
-          "height": 2500,
-          "aspectRatio": 0.7728
+          "width": 1080,
+          "height": 1080,
+          "aspectRatio": 1
         },
         "coordinateSystem": {
           "type": "absolute",
@@ -1304,136 +1304,76 @@
           "units": "px"
         },
         "backgroundType": "image",
-        "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster6.png",
-        "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster6.png",
+        "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster7.jpg",
+        "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster7.jpg",
         "templateType": "free",
-        "gradientColors": ["#f0f0f0", "#e0e0e0"],
+        "gradientColors": [
+          "#f0f0f0",
+          "#e0e0e0"
+        ],
         "hasGradient": true,
         "textFields": [
           {
-            "id": "element-1748174139507",
+            "id": "element-1748503221011",
             "type": "text",
-            "x": 432.9999694824219,
-            "y": 1370.9999237060547,
-            "width": 1129,
-            "height": 153,
-            "xPercent": 22.41200670198871,
-            "yPercent": 54.83999694824219,
-            "widthPercent": 58.436853002070386,
-            "heightPercent": 6.12,
-            "placeholder": "Stadium Name",
+            "x": 158.00000953674316,
+            "y": 851.0000305175781,
+            "width": 766,
+            "height": 85,
+            "xPercent": 14.629630512661404,
+            "yPercent": 78.79629912199798,
+            "widthPercent": 70.92592592592592,
+            "heightPercent": 7.87037037037037,
+            "placeholder": "Friday, 3 March 2027",
             "style": {
-              "fontSize": 17,
-              "color": "#fafafa",
+              "fontSize": 11,
+              "color": "#ffffff",
               "fontWeight": "bold",
               "fontUrl": "",
-              "textTransform": "uppercase",
-              "hasShadow": false
+              "textTransform": "capitalize",
+              "hasShadow": true
             }
           },
           {
-            "id": "element-1748174221813-clone",
+            "id": "element-1748503273125-clone",
             "type": "text",
-            "x": 158.9999542236328,
-            "y": 1550.9999237060547,
-            "width": 705,
-            "height": 148,
-            "xPercent": 8.22981129521909,
-            "yPercent": 62.039996948242184,
-            "widthPercent": 36.49068322981366,
-            "heightPercent": 5.92,
-            "placeholder": "Team A",
+            "x": 159.00002479553223,
+            "y": 944.0000305175781,
+            "width": 767,
+            "height": 62,
+            "xPercent": 14.722224518104834,
+            "yPercent": 87.40741023310909,
+            "widthPercent": 71.01851851851852,
+            "heightPercent": 5.7407407407407405,
+            "placeholder": "Fauget Stadium",
             "style": {
-              "fontSize": 17,
-              "color": "#fafafa",
+              "fontSize": 11,
+              "color": "#ffffff",
               "fontWeight": "bold",
               "fontUrl": "",
-              "textTransform": "uppercase",
-              "hasShadow": false
+              "textTransform": "capitalize",
+              "hasShadow": true
             }
           },
           {
-            "id": "element-1748174298417-clone",
+            "id": "element-1748503309683-clone",
             "type": "text",
-            "x": 1062.6666107177734,
-            "y": 1557.9999237060547,
-            "width": 705,
-            "height": 148,
-            "xPercent": 55.00344775971912,
-            "yPercent": 62.319996948242185,
-            "widthPercent": 36.49068322981366,
-            "heightPercent": 5.92,
-            "placeholder": "Team B",
+            "x": 160.00002479553223,
+            "y": 1013.0000305175781,
+            "width": 767,
+            "height": 62,
+            "xPercent": 14.814817110697428,
+            "yPercent": 93.79629912199798,
+            "widthPercent": 71.01851851851852,
+            "heightPercent": 5.7407407407407405,
+            "placeholder": "123 Anywhere St., Any City",
             "style": {
-              "fontSize": 17,
-              "color": "#fafafa",
+              "fontSize": 11,
+              "color": "#ffffff",
               "fontWeight": "bold",
               "fontUrl": "",
-              "textTransform": "uppercase",
-              "hasShadow": false
-            }
-          },
-          {
-            "id": "element-1748174313231-clone",
-            "type": "text",
-            "x": 452.99997997283936,
-            "y": 1799.9999389648438,
-            "width": 1129,
-            "height": 120,
-            "xPercent": 23.44720393234158,
-            "yPercent": 71.99999755859375,
-            "widthPercent": 58.436853002070386,
-            "heightPercent": 4.8,
-            "placeholder": "Saturday, July 20",
-            "style": {
-              "fontSize": 17,
-              "color": "#fafafa",
-              "fontWeight": "bold",
-              "fontUrl": "",
-              "textTransform": "uppercase",
-              "hasShadow": false
-            }
-          },
-          {
-            "id": "element-1748174342945-clone",
-            "type": "text",
-            "x": 543,
-            "y": 1925.9999237060547,
-            "width": 963,
-            "height": 120,
-            "xPercent": 28.1055900621118,
-            "yPercent": 77.03999694824219,
-            "widthPercent": 49.84472049689441,
-            "heightPercent": 4.8,
-            "placeholder": " At 7 PM",
-            "style": {
-              "fontSize": 17,
-              "color": "#fafafa",
-              "fontWeight": "bold",
-              "fontUrl": "",
-              "textTransform": "uppercase",
-              "hasShadow": false
-            }
-          },
-          {
-            "id": "element-1748174367210-clone",
-            "type": "text",
-            "x": 571,
-            "y": 2179.9999237060547,
-            "width": 911,
-            "height": 120,
-            "xPercent": 29.554865424430645,
-            "yPercent": 87.19999694824219,
-            "widthPercent": 47.153209109730845,
-            "heightPercent": 4.8,
-            "placeholder": "123 Anywhere st., Any City",
-            "style": {
-              "fontSize": 17,
-              "color": "#fafafa",
-              "fontWeight": "bold",
-              "fontUrl": "",
-              "textTransform": "uppercase",
-              "hasShadow": false
+              "textTransform": "capitalize",
+              "hasShadow": true
             }
           }
         ],
