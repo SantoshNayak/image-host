@@ -1390,6 +1390,166 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
+    },
+    {
+      "id": "template-1748528248802-413",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 0,
+      "dimensions": {
+        "width": 1080,
+        "height": 1080,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster8.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster8.jpg",
+      "templateType": "free",
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748528319687",
+          "type": "text",
+          "x": 249.00000762939453,
+          "y": 27,
+          "width": 603,
+          "height": 50,
+          "xPercent": 23.055556261980975,
+          "yPercent": 2.5,
+          "widthPercent": 55.833333333333336,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Borcelle TOURNAMENT pRESENTS ",
+          "style": {
+            "fontSize": 11,
+            "color": "#0e0000",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748528395041",
+          "type": "text",
+          "x": 198.00000762939453,
+          "y": 589.0000305175781,
+          "width": 209,
+          "height": 50,
+          "xPercent": 18.333334039758753,
+          "yPercent": 54.53703986273871,
+          "widthPercent": 19.35185185185185,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Team A",
+          "style": {
+            "fontSize": 13,
+            "color": "#000000",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748528437302-clone",
+          "type": "text",
+          "x": 677.0000228881836,
+          "y": 586.0000305175781,
+          "width": 198,
+          "height": 50,
+          "xPercent": 62.685187304461444,
+          "yPercent": 54.25926208496094,
+          "widthPercent": 18.333333333333332,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Team B",
+          "style": {
+            "fontSize": 13,
+            "color": "#000000",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748528480610",
+          "type": "text",
+          "x": 176.00000762939453,
+          "y": 905.0000610351562,
+          "width": 748,
+          "height": 50,
+          "xPercent": 16.296297002721715,
+          "yPercent": 83.79630194769965,
+          "widthPercent": 69.25925925925925,
+          "heightPercent": 4.62962962962963,
+          "placeholder": "Salford Stadium Centre",
+          "style": {
+            "fontSize": 12,
+            "color": "#ecf601",
+            "fontWeight": "normal",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748528536146-clone",
+          "type": "text",
+          "x": 174.00000762939453,
+          "y": 958.0000610351562,
+          "width": 751,
+          "height": 47,
+          "xPercent": 16.111111817536532,
+          "yPercent": 88.70370935510707,
+          "widthPercent": 69.53703703703704,
+          "heightPercent": 4.351851851851852,
+          "placeholder": "SUNDAY, July 30,2025 i 12:00Pm",
+          "style": {
+            "fontSize": 12,
+            "color": "#ecf601",
+            "fontWeight": "normal",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        },
+        {
+          "id": "element-1748528564854-clone",
+          "type": "text",
+          "x": 173.00000762939453,
+          "y": 1012.0000610351562,
+          "width": 751,
+          "height": 47,
+          "xPercent": 16.01851922494394,
+          "yPercent": 93.70370935510705,
+          "widthPercent": 69.53703703703704,
+          "heightPercent": 4.351851851851852,
+          "placeholder": "123 Anywhere St., Any City ST., 12345.",
+          "style": {
+            "fontSize": 12,
+            "color": "#ecf601",
+            "fontWeight": "normal",
+            "fontUrl": "",
+            "textTransform": "uppercase"
+          }
+        }
+      ],
+      "imageFields": [],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
     }
   ]
 }
