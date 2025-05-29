@@ -1287,6 +1287,109 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
+    },
+    {
+      "id": "template-1748503106582-641",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 0,
+      "dimensions": {
+        "width": 1080,
+        "height": 1080,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster7.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster7.jpg",
+      "templateType": "free",
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748503221011",
+          "type": "text",
+          "x": 158.00000953674316,
+          "y": 851.0000305175781,
+          "width": 766,
+          "height": 85,
+          "xPercent": 14.629630512661404,
+          "yPercent": 78.79629912199798,
+          "widthPercent": 70.92592592592592,
+          "heightPercent": 7.87037037037037,
+          "placeholder": "Friday, 3 March 2027",
+          "style": {
+            "fontSize": 11,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "capitalize",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748503273125-clone",
+          "type": "text",
+          "x": 159.00002479553223,
+          "y": 944.0000305175781,
+          "width": 767,
+          "height": 62,
+          "xPercent": 14.722224518104834,
+          "yPercent": 87.40741023310909,
+          "widthPercent": 71.01851851851852,
+          "heightPercent": 5.7407407407407405,
+          "placeholder": "Fauget Stadium",
+          "style": {
+            "fontSize": 11,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "capitalize",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748503309683-clone",
+          "type": "text",
+          "x": 160.00002479553223,
+          "y": 1013.0000305175781,
+          "width": 767,
+          "height": 62,
+          "xPercent": 14.814817110697428,
+          "yPercent": 93.79629912199798,
+          "widthPercent": 71.01851851851852,
+          "heightPercent": 5.7407407407407405,
+          "placeholder": "123 Anywhere St., Any City",
+          "style": {
+            "fontSize": 11,
+            "color": "#ffffff",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "capitalize",
+            "hasShadow": true
+          }
+        }
+      ],
+      "imageFields": [],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
     }
   ]
 }
