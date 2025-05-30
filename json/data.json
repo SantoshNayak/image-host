@@ -1449,7 +1449,7 @@
           "heightPercent": 4.62962962962963,
           "placeholder": "Team A",
           "style": {
-            "fontSize": 13,
+            "fontSize": 11,
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
@@ -1469,7 +1469,7 @@
           "heightPercent": 4.62962962962963,
           "placeholder": "Team B",
           "style": {
-            "fontSize": 13,
+            "fontSize": 11,
             "color": "#000000",
             "fontWeight": "bold",
             "fontUrl": "",
@@ -1510,7 +1510,7 @@
           "heightPercent": 4.351851851851852,
           "placeholder": "SUNDAY, July 30,2025 i 12:00Pm",
           "style": {
-            "fontSize": 12,
+            "fontSize": 11,
             "color": "#f60101",
             "fontWeight": "normal",
             "fontUrl": "",
@@ -1531,7 +1531,7 @@
           "heightPercent": 4.351851851851852,
           "placeholder": "123 Anywhere St., Any City ST., 12345.",
           "style": {
-            "fontSize": 12,
+            "fontSize": 11,
             "color": "#ecf601",
             "fontWeight": "normal",
             "fontUrl": "",
