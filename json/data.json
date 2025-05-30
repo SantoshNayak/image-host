@@ -1392,7 +1392,7 @@
       }
     },
     {
-      "id": "template-1748528248802-413",
+      "id": "template-1748578054142-939",
       "name": "Cricket Poster Template",
       "version": "1.0",
       "imageCount": 0,
@@ -1450,7 +1450,7 @@
           "placeholder": "Team A",
           "style": {
             "fontSize": 13,
-            "color": "#000000",
+            "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
             "textTransform": "uppercase"
@@ -1490,10 +1490,11 @@
           "placeholder": "Salford Stadium Centre",
           "style": {
             "fontSize": 12,
-            "color": "#ecf601",
+            "color": "#ffffff",
             "fontWeight": "normal",
             "fontUrl": "",
-            "textTransform": "uppercase"
+            "textTransform": "uppercase",
+            "hasShadow": true
           }
         },
         {
@@ -1510,10 +1511,11 @@
           "placeholder": "SUNDAY, July 30,2025 i 12:00Pm",
           "style": {
             "fontSize": 12,
-            "color": "#ecf601",
+            "color": "#f60101",
             "fontWeight": "normal",
             "fontUrl": "",
-            "textTransform": "uppercase"
+            "textTransform": "uppercase",
+            "hasShadow": true
           }
         },
         {
