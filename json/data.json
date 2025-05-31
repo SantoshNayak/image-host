@@ -1552,6 +1552,128 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
+    },
+    {
+      "id": "template-1748661622765-711",
+      "name": "Cricket Poster Template",
+      "version": "1.0",
+      "imageCount": 0,
+      "dimensions": {
+        "width": 1080,
+        "height": 1080,
+        "aspectRatio": 1
+      },
+      "coordinateSystem": {
+        "type": "absolute",
+        "origin": "top-left",
+        "units": "px"
+      },
+      "backgroundType": "image",
+      "backgroundImage": "https://santoshnayak.github.io/image-host/images/cricket/backgrounds/poster9.jpg",
+      "previewImage": "https://santoshnayak.github.io/image-host/images/cricket/thumbnail/poster9.jpg",
+      "templateType": "free",
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
+      "hasGradient": true,
+      "textFields": [
+        {
+          "id": "element-1748661645722",
+          "type": "text",
+          "x": 61.000003814697266,
+          "y": 712.0000305175781,
+          "width": 405,
+          "height": 80,
+          "xPercent": 5.648148501360858,
+          "yPercent": 65.92592875162761,
+          "widthPercent": 37.5,
+          "heightPercent": 7.4074074074074066,
+          "placeholder": "TEAM A",
+          "style": {
+            "fontSize": 18,
+            "color": "#f5f5f5",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748661731542-clone",
+          "type": "text",
+          "x": 609.0000038146973,
+          "y": 712.0000305175781,
+          "width": 405,
+          "height": 80,
+          "xPercent": 56.388889242101605,
+          "yPercent": 65.92592875162761,
+          "widthPercent": 37.5,
+          "heightPercent": 7.4074074074074066,
+          "placeholder": "TEAM B",
+          "style": {
+            "fontSize": 18,
+            "color": "#f5f5f5",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "uppercase",
+            "hasShadow": true
+          }
+        },
+        {
+          "id": "element-1748661778827-clone",
+          "type": "text",
+          "x": 159,
+          "y": 818.0000305175781,
+          "width": 771,
+          "height": 73,
+          "xPercent": 14.722222222222223,
+          "yPercent": 75.74074356644242,
+          "widthPercent": 71.38888888888889,
+          "heightPercent": 6.7592592592592595,
+          "placeholder": "Sunday, January 25, 2025  | 10.00 am",
+          "style": {
+            "fontSize": 13,
+            "color": "#f5f5f5",
+            "fontWeight": "bold",
+            "fontUrl": "",
+            "textTransform": "capitalize"
+          }
+        },
+        {
+          "id": "element-1748661913821-clone",
+          "type": "text",
+          "x": 602.0000457763672,
+          "y": 921.0000305175781,
+          "width": 368,
+          "height": 45,
+          "xPercent": 55.740744979293254,
+          "yPercent": 85.27778060347946,
+          "widthPercent": 34.074074074074076,
+          "heightPercent": 4.166666666666666,
+          "placeholder": "Hanover Stadium",
+          "style": {
+            "fontSize": 11,
+            "color": "#f5f5f5",
+            "fontWeight": "normal",
+            "fontUrl": "",
+            "textTransform": "capitalize"
+          }
+        }
+      ],
+      "imageFields": [],
+      "isProfessional": false,
+      "backgroundFallback": {
+        "type": "color",
+        "backgroundColor": "#f0f0f0"
+      },
+      "_positioningGuide": {
+        "description": "Position information available in two formats",
+        "absolutePixels": "Use x, y, width, height properties (origin: top-left)",
+        "percentages": "Use xPercent, yPercent, widthPercent, heightPercent (relative to canvas size)",
+        "recommendedForMobile": "Use percentage values for responsive layouts",
+        "recommendedForDesktop": "Use absolute pixel values for exact positioning"
+      }
     }
   ]
 }
