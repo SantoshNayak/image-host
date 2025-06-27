@@ -1575,7 +1575,8 @@
         "recommendedForMobile": "Use percentage values for responsive layouts",
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
-    },{
+    },
+    {
   "id": "template-1750992190444-966",
   "name": "Cricket Poster Template",
   "version": "1.0",
@@ -1613,7 +1614,7 @@
       "heightPercent": 6.243386243386243,
       "placeholder": "Team A",
       "style": {
-        "fontSize": 16,
+        "fontSize": 10,
         "color": "#ffffff",
         "fontWeight": "bold",
         "fontUrl": "",
@@ -1634,7 +1635,7 @@
       "heightPercent": 6.243386243386243,
       "placeholder": "Team B",
       "style": {
-        "fontSize": 16,
+        "fontSize": 10,
         "color": "#ffffff",
         "fontWeight": "bold",
         "fontUrl": "",
@@ -1655,7 +1656,7 @@
       "heightPercent": 6.243386243386243,
       "placeholder": "7:00 pm - 12:00 pm  ",
       "style": {
-        "fontSize": 16,
+        "fontSize": 10,
         "color": "#ffffff",
         "fontWeight": "bold",
         "fontUrl": "",
@@ -1676,7 +1677,7 @@
       "heightPercent": 6.243386243386243,
       "placeholder": " 21st  SEPTEMBER, 2030",
       "style": {
-        "fontSize": 16,
+        "fontSize": 10,
         "color": "#ffffff",
         "fontWeight": "bold",
         "fontUrl": "",
