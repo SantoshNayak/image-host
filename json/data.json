@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "id": "template-1750674277402-363",
+      "id": "template-1759672280098-286",
       "name": "Cricket Poster Template",
       "version": "1.0",
       "imageCount": 2,
@@ -19,7 +19,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster1.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster1.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -87,14 +90,14 @@
         {
           "id": "element-1748053931851",
           "type": "text",
-          "x": 134.9999885559082,
-          "y": 1466.9999389648438,
+          "x": 134.99996948242188,
+          "y": 1467,
           "width": 200,
-          "height": 118,
-          "xPercent": 8.333332626907913,
-          "yPercent": 90.55555178795332,
+          "height": 151,
+          "xPercent": 8.333331449532215,
+          "yPercent": 90.55555555555556,
           "widthPercent": 12.345679012345679,
-          "heightPercent": 7.28395061728395,
+          "heightPercent": 9.320987654320987,
           "placeholder": "Date. Ex: 20",
           "style": {
             "fontSize": 9,
@@ -129,14 +132,14 @@
         {
           "id": "element-1748057105153",
           "type": "text",
-          "x": 384.9999580383301,
-          "y": 1471.9999389648438,
+          "x": 385,
+          "y": 1472,
           "width": 475,
-          "height": 118,
-          "xPercent": 23.765429508538894,
-          "yPercent": 90.86419376326195,
+          "height": 143,
+          "xPercent": 23.765432098765434,
+          "yPercent": 90.8641975308642,
           "widthPercent": 29.32098765432099,
-          "heightPercent": 7.28395061728395,
+          "heightPercent": 8.82716049382716,
           "placeholder": "Play Ground Address",
           "style": {
             "fontSize": 9,
@@ -210,7 +213,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster2.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster2.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -332,7 +338,7 @@
       }
     },
     {
-      "id": "template-1747728901346-831",
+      "id": "template-1759671384245-639",
       "name": "Match announcement",
       "version": "1.0",
       "imageCount": 0,
@@ -350,7 +356,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/matchannouncement.png",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/matchannouncement.png",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -359,14 +368,14 @@
           "x": 312,
           "y": 1250,
           "width": 459,
-          "height": 50,
+          "height": 88,
           "xPercent": 28.888888888888886,
           "yPercent": 92.5925925925926,
           "widthPercent": 42.5,
-          "heightPercent": 3.7037037037037033,
+          "heightPercent": 6.518518518518518,
           "placeholder": "Tournament Date and Time",
           "style": {
-            "fontSize": 16,
+            "fontSize": 13,
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
@@ -389,7 +398,7 @@
       }
     },
     {
-      "id": "template-1747740857567-253",
+      "id": "template-1759671546578-755",
       "name": "Next Match",
       "version": "1.0",
       "imageCount": 2,
@@ -407,23 +416,26 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/nextmatch.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/nextmatch.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
           "id": "element-1747740879700",
           "type": "text",
           "x": 428,
-          "y": 38,
+          "y": 33,
           "width": 430,
-          "height": 58,
+          "height": 75,
           "xPercent": 39.62962962962963,
-          "yPercent": 3.5185185185185186,
+          "yPercent": 3.0555555555555554,
           "widthPercent": 39.81481481481482,
-          "heightPercent": 5.37037037037037,
+          "heightPercent": 6.944444444444445,
           "placeholder": "Tourname Name",
           "style": {
-            "fontSize": 18,
+            "fontSize": 14,
             "color": "#ffffff",
             "fontWeight": "bold",
             "fontUrl": "",
@@ -434,13 +446,13 @@
           "id": "element-1747740901196",
           "type": "text",
           "x": 215,
-          "y": 658,
+          "y": 654,
           "width": 216,
-          "height": 50,
+          "height": 64,
           "xPercent": 19.90740740740741,
-          "yPercent": 60.92592592592593,
+          "yPercent": 60.55555555555555,
           "widthPercent": 20,
-          "heightPercent": 4.62962962962963,
+          "heightPercent": 5.9259259259259265,
           "placeholder": "Team 1 Name",
           "style": {
             "fontSize": 12,
@@ -454,13 +466,13 @@
           "id": "element-1747740938765",
           "type": "text",
           "x": 652,
-          "y": 659,
+          "y": 651,
           "width": 214,
-          "height": 50,
+          "height": 68,
           "xPercent": 60.370370370370374,
-          "yPercent": 61.01851851851852,
+          "yPercent": 60.27777777777777,
           "widthPercent": 19.814814814814817,
-          "heightPercent": 4.62962962962963,
+          "heightPercent": 6.296296296296296,
           "placeholder": "Team 2 Name",
           "style": {
             "fontSize": 12,
@@ -496,11 +508,11 @@
           "x": 357,
           "y": 974,
           "width": 371,
-          "height": 51,
+          "height": 95,
           "xPercent": 33.05555555555556,
           "yPercent": 90.18518518518519,
           "widthPercent": 34.35185185185185,
-          "heightPercent": 4.722222222222222,
+          "heightPercent": 8.796296296296296,
           "placeholder": "SUNDAY, DECEMBER 15th",
           "style": {
             "fontSize": 16,
@@ -554,7 +566,6 @@
         "recommendedForDesktop": "Use absolute pixel values for exact positioning"
       }
     },
-
     {
       "id": "template-1750674984329-462",
       "name": "Cricket Poster Template",
@@ -574,7 +585,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster3.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster3.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -689,7 +703,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster4.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster4.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -795,7 +812,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster5.png",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster5.png",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -943,7 +963,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster7.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster7.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -1043,7 +1066,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster8.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster8.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -1202,7 +1228,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster9.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster9.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -1303,7 +1332,7 @@
       }
     },
     {
-      "id": "template-1749020104859-990",
+      "id": "template-1759671851814-515",
       "name": "Cricket Poster Template",
       "version": "1.0",
       "imageCount": 2,
@@ -1321,20 +1350,23 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster10.jpg",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster10.jpg",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
           "id": "element-1749020114225",
           "type": "text",
-          "x": 332.0000190734863,
-          "y": 453.00001525878906,
+          "x": 332.00006103515625,
+          "y": 428,
           "width": 420,
-          "height": 76,
-          "xPercent": 30.740742506804292,
-          "yPercent": 41.94444585729528,
+          "height": 128,
+          "xPercent": 30.740746392144096,
+          "yPercent": 39.62962962962963,
           "widthPercent": 38.88888888888889,
-          "heightPercent": 7.037037037037037,
+          "heightPercent": 11.851851851851853,
           "placeholder": "2 hours to go",
           "style": {
             "fontSize": 16,
@@ -1450,7 +1482,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster11.png",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster11.png",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -1595,7 +1630,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster12.png",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster12.png",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -1716,7 +1754,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster13.png",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster13.png",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
@@ -1850,7 +1891,10 @@
       "backgroundImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/bg/poster14.png",
       "previewImage": "https://d3tjyl7xo0z51a.cloudfront.net/media/crc/thumb/poster14.png",
       "templateType": "free",
-      "gradientColors": ["#f0f0f0", "#e0e0e0"],
+      "gradientColors": [
+        "#f0f0f0",
+        "#e0e0e0"
+      ],
       "hasGradient": true,
       "textFields": [
         {
